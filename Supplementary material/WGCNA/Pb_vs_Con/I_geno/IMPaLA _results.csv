@@ -1,0 +1,105 @@
+pathway_name,pathway_source,num_overlapping_metabolites,overlapping_metabolites,num_all_pathway_metabolites,P_metabolites,Q_metabolites
+Pentose and glucuronate interconversions - Homo sapiens (human),KEGG,8,C00309;C00259;C00508;C00181;C00312;C00310;C01508;C00476,55 (55),2.8e-09,1.2e-05
+Purine metabolism - Homo sapiens (human),KEGG,6,C04051;C00242;C00385;C05516;C05515;C01762,95 (95),4.81e-05,0.103
+purine ribonucleosides degradation to ribose-1-phosphate,HumanCyc,3,C00385;C00242;C01762,14 (15),0.000118,0.155
+Purine metabolism,Wikipathways,4,C00385;C04051;C00242;C01762,39 (42),0.000155,0.155
+Biochemical Pathways Part I,Wikipathways,11,C00242;C00385;C00121;C00259;C00181;C00310;C00309;C00489;C00345;C01762;C05565,456 (467),0.000212,0.155
+Nucleotide Metabolism,Wikipathways,3,C00385;C00242;C00121,17 (18),0.000218,0.155
+purine nucleotides degradation,HumanCyc,3,C00385;C00242;C01762,19 (19),0.000307,0.166
+Azathioprine Action Pathway,SMPDB,5,C00385;C04051;C00242;C16621;C01762,85 (86),0.00031,0.166
+Purine metabolism,EHMN,5,C00385;C04051;C00242;C00121;C01762,94 (94),0.000496,0.235
+arsenate detoxification I (glutaredoxin),HumanCyc,3,C00242;C00121;C01762,23 (24),0.000551,0.235
+chondroitin sulfate degradation (metazoa),HumanCyc,5,C00312;C01508;C00310;C00121;C00181,100 (134),0.00066,0.246
+dermatan sulfate degradation (metazoa),HumanCyc,5,C00312;C01508;C00310;C00121;C00181,101 (135),0.000691,0.246
+Metabolism of carbohydrates,Reactome,5,C00312;C00121;C00310;C00345;C00181,111 (137),0.00106,0.259
+Purine Metabolism,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Xanthinuria type I,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Purine Nucleoside Phosphorylase Deficiency,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Adenylosuccinate Lyase Deficiency,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+AICA-Ribosiduria,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Adenine phosphoribosyltransferase deficiency (APRT),SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Mitochondrial DNA depletion syndrome,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Myoadenylate deaminase deficiency,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Molybdenum Cofactor Deficiency,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Adenosine Deaminase Deficiency,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Gout or Kelley-Seegmiller Syndrome,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Lesch-Nyhan Syndrome (LNS),SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Xanthinuria type II,SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Xanthine Dehydrogenase Deficiency (Xanthinuria),SMPDB,4,C00385;C04051;C00242;C01762,72 (73),0.00164,0.259
+Purine nucleotides nucleosides metabolism,INOH,4,C00385;C04051;C00242;C01762,80 (80),0.00242,0.369
+urate biosynthesis/inosine 5_-phosphate degradation,HumanCyc,2,C00385;C01762,11 (11),0.00267,0.394
+Mercaptopurine Action Pathway,SMPDB,4,C00385;C04051;C00242;C01762,83 (84),0.00277,0.394
+Thioguanine Action Pathway,SMPDB,4,C00385;C04051;C00242;C01762,84 (85),0.00289,0.399
+guanosine nucleotides degradation,HumanCyc,2,C00385;C00242,12 (12),0.00319,0.426
+Formation of xylulose-5-phosphate,Wikipathways,2,C00312;C00310,14 (16),0.00436,0.565
+Catabolism of glucuronate to xylulose-5-phosphate,Reactome,2,C00312;C00310,15 (16),0.00501,0.63
+Caffeine metabolism - Homo sapiens (human),KEGG,2,C00385;C01762,22 (22),0.0107,1
+Valine_ leucine and isoleucine biosynthesis - Homo sapiens (human),KEGG,2,C04181;C06010,23 (23),0.0117,1
+ABC transporters - Homo sapiens (human),KEGG,4,C00259;C00121;C00181;C16692,129 (129),0.0132,1
+Pentose Phosphate Pathway,SMPDB,2,C00121;C00345,29 (29),0.0182,1
+Glucose-6-phosphate dehydrogenase deficiency,SMPDB,2,C00121;C00345,29 (29),0.0182,1
+Ribose-5-phosphate isomerase deficiency,SMPDB,2,C00121;C00345,29 (29),0.0182,1
+Transaldolase deficiency,SMPDB,2,C00121;C00345,29 (29),0.0182,1
+Tryptophan metabolism - Homo sapiens (human),KEGG,3,C05645;C01249;C05652,81 (81),0.02,1
+Pentose phosphate pathway (hexose monophosphate shunt),Reactome,2,C00345;C00121,31 (31),0.0207,1
+Pentose phosphate cycle,INOH,2,C00345;C00121,31 (31),0.0207,1
+Azathioprine Metabolism Pathway,SMPDB,1,C16621,3 (3),0.0215,1
+Pentose phosphate pathway - Homo sapiens (human),KEGG,2,C00345;C00121,35 (35),0.026,1
+Pentose phosphate pathway,EHMN,2,C00345;C00121,37 (37),0.0288,1
+Purine catabolism,Reactome,2,C00385;C00242,41 (53),0.0348,1
+Butanoate metabolism - Homo sapiens (human),KEGG,2,C00741;C06010,42 (42),0.0364,1
+Histidine metabolism - Homo sapiens (human),KEGG,2,C03277;C05565,47 (47),0.0447,1
+Pentose Phosphate Metabolism,Wikipathways,1,C00345,7 (9),0.0495,1
+guanine and guanosine salvage,HumanCyc,1,C00242,7 (7),0.0495,1
+pentose phosphate pathway (oxidative branch),HumanCyc,1,C00345,9 (9),0.0633,1
+purine deoxyribonucleosides degradation,HumanCyc,1,C00242,9 (10),0.0633,1
+Caffeine and Theobromine metabolism,Wikipathways,1,C00385,11 (11),0.0768,1
+HS-GAG degradation,Reactome,1,C00181,12 (23),0.0835,1
+D-glucuronate degradation,HumanCyc,1,C00312,12 (12),0.0835,1
+adenosine nucleotides degradation,HumanCyc,1,C00385,13 (13),0.0901,1
+pentose phosphate pathway,HumanCyc,1,C00345,14 (16),0.0967,1
+tRNA modification in the nucleus and cytosol,Wikipathways,1,C00242,17 (19),0.116,1
+Nucleobase catabolism,Wikipathways,2,C00385;C00242,82 (100),0.118,1
+Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane,Reactome,1,C00242,18 (18),0.123,1
+Cori Cycle,Wikipathways,1,C00345,18 (24),0.123,1
+Nucleobase catabolism,Reactome,2,C00385;C00242,86 (100),0.127,1
+Heparan sulfate/heparin (HS-GAG) metabolism,Reactome,1,C00181,24 (35),0.16,1
+Disorders of Folate Metabolism and Transport,Wikipathways,1,C04051,25 (26),0.166,1
+Pentose phosphate pathway,Wikipathways,1,C00121,26 (31),0.172,1
+Tryptophan metabolism,Wikipathways,1,C05645,27 (27),0.178,1
+Amino sugar and nucleotide sugar metabolism - Homo sapiens (human),KEGG,2,C00259;C00181,108 (108),0.183,1
+Pantothenate and CoA biosynthesis - Homo sapiens (human),KEGG,1,C00900,28 (28),0.184,1
+Alanine_ aspartate and glutamate metabolism - Homo sapiens (human),KEGG,1,C12270,28 (28),0.184,1
+Vitamin B6 metabolism - Homo sapiens (human),KEGG,1,C04106,28 (28),0.184,1
+Metabolic reprogramming in colon cancer,Wikipathways,1,C00345,29 (35),0.19,1
+superpathway of purine nucleotide salvage,HumanCyc,1,C00242,30 (30),0.196,1
+Purine salvage,Reactome,1,C00242,30 (31),0.196,1
+L-kynurenine degradation,HumanCyc,1,C05645,30 (30),0.196,1
+Thiamine metabolism - Homo sapiens (human),KEGG,1,C05856,31 (31),0.202,1
+Fatty Acid Beta Oxidation,Wikipathways,1,C00489,32 (34),0.208,1
+Butanoate metabolism,EHMN,1,C06010,36 (36),0.231,1
+Glycosaminoglycan metabolism,Wikipathways,1,C00181,36 (58),0.231,1
+Metabolism of nucleotides,Reactome,2,C00385;C00242,132 (152),0.247,1
+Glycosaminoglycan metabolism,Reactome,1,C00181,40 (60),0.253,1
+Nucleotide salvage,Wikipathways,1,C00242,43 (45),0.269,1
+tRNA modification in the nucleus and cytosol,Reactome,1,C00242,44 (47),0.274,1
+Nucleotide salvage,Reactome,1,C00242,44 (45),0.274,1
+tRNA processing,Reactome,1,C00242,47 (51),0.29,1
+Ascorbate and aldarate metabolism - Homo sapiens (human),KEGG,1,C00259,48 (48),0.295,1
+Fatty acid degradation - Homo sapiens (human),KEGG,1,C00489,50 (50),0.306,1
+Drug metabolism - other enzymes - Homo sapiens (human),KEGG,1,C16621,52 (52),0.316,1
+Glycolysis and Gluconeogenesis,EHMN,1,C00900,52 (52),0.316,1
+Lysine degradation - Homo sapiens (human),KEGG,1,C00489,55 (55),0.331,1
+Metabolism of RNA,Reactome,1,C00242,56 (72),0.336,1
+Warburg Effect,SMPDB,1,C00345,57 (58),0.34,1
+Tryptophan Metabolism,SMPDB,1,C05645,59 (60),0.35,1
+Transport of vitamins_ nucleosides_ and related molecules,Wikipathways,1,C00242,60 (60),0.355,1
+Transport of vitamins_ nucleosides_ and related molecules,Reactome,1,C00242,64 (64),0.374,1
+Phenylalanine metabolism - Homo sapiens (human),KEGG,1,C03589,72 (72),0.409,1
+Tryptophan metabolism,EHMN,1,C05645,78 (78),0.435,1
+Selenium Micronutrient Network,Wikipathways,1,C00385,84 (103),0.459,1
+Metabolism,Reactome,7,C00242;C00385;C00345;C00181;C00312;C00310;C00121,951 (1384),0.548,1
+Human metabolism overview,Wikipathways,1,C00345,113 (113),0.564,1
+Neuroactive ligand-receptor interaction - Homo sapiens (human),KEGG,1,C12270,130 (130),0.616,1
+SLC-mediated transmembrane transport,Reactome,1,C00242,155 (166),0.682,1
+Transport of small molecules,Reactome,1,C00242,203 (226),0.779,1

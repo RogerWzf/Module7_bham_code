@@ -1,0 +1,5 @@
+# Run the BEAMSpy to perform the metabolite annotation using KEGG database
+beamspy annotate-compounds --peaklist peaks_intensity.txt --db results/result_pos.sqlite -n kegg_dpx_20181101_v1 -a adducts.txt -m pos -p 5.0
+
+# Output the summary table
+beamspy summary-results -l peaks_intensity.txt -o results/summary.txt -s tab -d results/result_pos.sqlite

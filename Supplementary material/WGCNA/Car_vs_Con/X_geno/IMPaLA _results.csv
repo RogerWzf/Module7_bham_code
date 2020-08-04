@@ -1,0 +1,317 @@
+pathway_name,pathway_source,num_overlapping_metabolites,overlapping_metabolites,num_all_pathway_metabolites,P_metabolites,Q_metabolites
+Metabolism of water-soluble vitamins and cofactors,Reactome,5,C00378;C03150;C00051;C05552;C01134,98 (122),0.000146,0.624
+Metabolism of water-soluble vitamins and cofactors,Wikipathways,4,C00378;C00051;C01134;C05552,67 (79),0.000405,0.866
+Metabolism of vitamins and cofactors,Reactome,5,C00378;C03150;C00051;C05552;C01134,136 (180),0.000675,0.96
+glutathione biosynthesis,HumanCyc,2,C00669;C00051,9 (9),0.000991,1
+Sulfation Biotransformation Reaction,Wikipathways,2,C00051;C00059,10 (10),0.00123,1
+Glutathione synthesis and recycling,Reactome,2,C00669;C00051,14 (14),0.00246,1
+Folate biosynthesis - Homo sapiens (human),KEGG,3,C04874;C05926;C21008,57 (57),0.00338,1
+Glutathione metabolism,Wikipathways,2,C00669;C00051,19 (19),0.00455,1
+Sepiapterin reductase deficiency,SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Segawa syndrome,SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Pterine Biosynthesis,SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Dopa-responsive dystonia,SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Hyperphenylalaniemia due to guanosine triphosphate cyclohydrolase deficiency,SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Hyperphenylalaninemia due to 6-pyruvoyltetrahydropterin synthase deficiency (ptps),SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Hyperphenylalaninemia due to dhpr-deficiency,SMPDB,2,C05926;C04874,20 (20),0.00504,1
+Benzo(a)pyrene metabolism,Wikipathways,1,C07535,1 (5),0.00542,1
+stress induction of hsp regulation,BioCarta,1,C00051,1 (1),0.00542,1
+Overview of nanoparticle effects,Wikipathways,1,C00051,1 (2),0.00542,1
+Gamma-glutamyl-transpeptidase deficiency,SMPDB,2,C00669;C00051,22 (22),0.00609,1
+5-oxoprolinase deficiency,SMPDB,2,C00669;C00051,22 (22),0.00609,1
+Gamma-Glutamyltransferase Deficiency,SMPDB,2,C00669;C00051,22 (22),0.00609,1
+Glutathione Metabolism,SMPDB,2,C00669;C00051,22 (22),0.00609,1
+Glutathione Synthetase Deficiency,SMPDB,2,C00669;C00051,22 (22),0.00609,1
+5-Oxoprolinuria,SMPDB,2,C00669;C00051,22 (22),0.00609,1
+Ferroptosis,Wikipathways,2,C00669;C00051,24 (29),0.00723,1
+Glutathione conjugation,Reactome,2,C00669;C00051,28 (31),0.00977,1
+Biotin metabolism - Homo sapiens (human),KEGG,2,C20387;C05552,28 (28),0.00977,1
+&gamma;-glutamyl cycle,HumanCyc,2,C00669;C00051,29 (29),0.0105,1
+multi-drug resistance factors,BioCarta,1,C00051,2 (2),0.0108,1
+Influenza A virus infection,Wikipathways,1,C00051,2 (2),0.0108,1
+Thiamine metabolism - Homo sapiens (human),KEGG,2,C00378;C02892,31 (31),0.0119,1
+Ferroptosis - Homo sapiens (human),KEGG,2,C00669;C00051,31 (31),0.0119,1
+Glutamate Glutamine metabolism,INOH,2,C00669;C00051,34 (34),0.0142,1
+Fas Ligand (FasL) pathway and Stress induction of Heat Shock Proteins (HSP) regulation,Wikipathways,1,C00051,3 (3),0.0162,1
+Acrylamide Biotransformation and Exposure Biomarkers,Wikipathways,1,C00051,3 (4),0.0162,1
+Glutathione metabolism - Homo sapiens (human),KEGG,2,C00669;C00051,38 (38),0.0176,1
+Vitamin digestion and absorption - Homo sapiens (human),KEGG,2,C00378;C05552,39 (39),0.0185,1
+One carbon metabolism and related pathways,Wikipathways,2,C00669;C00051,42 (42),0.0213,1
+Biosynthesis of maresin conjugates in tissue regeneration (MCTR),Reactome,1,C00051,4 (8),0.0215,1
+Sodium-coupled sulphate_ di- and tri-carboxylate transporters,Reactome,1,C00059,4 (4),0.0215,1
+NAD metabolism_ sirtuins and aging,Wikipathways,1,C03150,4 (4),0.0215,1
+Phase II - Conjugation of compounds,Wikipathways,3,C00051;C00669;C00059,119 (151),0.0254,1
+Phase II - Conjugation of compounds,Reactome,3,C00051;C00669;C00059,120 (148),0.026,1
+thiamin salvage III,HumanCyc,1,C00378,5 (5),0.0268,1
+sulfite oxidation,HumanCyc,1,C00059,5 (5),0.0268,1
+glutathione redox reactions II,HumanCyc,1,C00051,5 (5),0.0268,1
+Ascorbate and aldarate metabolism - Homo sapiens (human),KEGG,2,C14899;C05385,48 (48),0.0273,1
+2-Hydroxyglutric Aciduria (D And L Form),SMPDB,2,C00669;C00051,48 (49),0.0273,1
+Homocarnosinosis,SMPDB,2,C00669;C00051,48 (49),0.0273,1
+Hyperinsulinism-Hyperammonemia Syndrome,SMPDB,2,C00669;C00051,48 (49),0.0273,1
+Succinic semialdehyde dehydrogenase deficiency,SMPDB,2,C00669;C00051,48 (49),0.0273,1
+4-Hydroxybutyric Aciduria/Succinic Semialdehyde Dehydrogenase Deficiency,SMPDB,2,C00669;C00051,48 (49),0.0273,1
+Glutamate Metabolism,SMPDB,2,C00669;C00051,48 (49),0.0273,1
+Urea cycle and metabolism of arginine_ proline_ glutamate_ aspartate and asparagine,EHMN,3,C00669;C00051;C05932,125 (125),0.0289,1
+ABC transporters - Homo sapiens (human),KEGG,3,C00378;C00051;C00059,129 (129),0.0313,1
+CS/DS degradation,Reactome,1,C00059,6 (16),0.0321,1
+Digestion resistant carbohydrate metabolism,Wikipathways,1,C00059,6 (6),0.0321,1
+Transport of bile salts and organic acids_ metal ions and amine compounds,Wikipathways,2,C00059;C05570,53 (77),0.0328,1
+Sulfur amino acid metabolism,Wikipathways,2,C00059;C00051,53 (67),0.0328,1
+Pentose and glucuronate interconversions - Homo sapiens (human),KEGG,2,C14899;C05385,55 (55),0.0351,1
+Transport and synthesis of PAPS,Reactome,1,C00059,7 (7),0.0374,1
+Biosynthesis of aspirin-triggered D-series resolvins,Reactome,1,C00051,7 (19),0.0374,1
+Biosynthesis of protectin and resolvin conjugates in tissue regeneration (PCTR and RCTR),Reactome,1,C00051,7 (17),0.0374,1
+Biosynthesis of DHA-derived sulfido conjugates,Reactome,1,C00051,7 (21),0.0374,1
+sulfate activation for sulfonation,HumanCyc,1,C00059,7 (7),0.0374,1
+Biotin Metabolism,SMPDB,1,C05552,7 (7),0.0374,1
+Multiple carboxylase deficiency_ neonatal or early onset form,SMPDB,1,C05552,7 (7),0.0374,1
+Biotinidase Deficiency,SMPDB,1,C05552,7 (7),0.0374,1
+Cysteine and methionine metabolism - Homo sapiens (human),KEGG,2,C00051;C00059,61 (61),0.0424,1
+4-hydroxy-2-nonenal detoxification,HumanCyc,1,C00051,8 (8),0.0426,1
+Glycerophospholipid catabolism,Reactome,1,C00670,8 (11),0.0426,1
+Hydrolysis of LPC,Reactome,1,C00670,8 (9),0.0426,1
+Glycine Metabolism,Wikipathways,1,C00051,8 (10),0.0426,1
+Biological oxidations,Reactome,4,C00051;C00669;C00059;C03150,249 (321),0.0427,1
+Androgen and estrogen biosynthesis and metabolism,EHMN,2,C00059;C00051,62 (62),0.0437,1
+Acetylcholine Synthesis,Wikipathways,1,C00670,9 (9),0.0478,1
+Biotin transport and metabolism,Reactome,1,C05552,9 (9),0.0478,1
+Keratan sulfate degradation,Reactome,1,C00059,9 (9),0.0478,1
+Vitamin B1 (thiamin) metabolism,Reactome,1,C00378,9 (9),0.0478,1
+methylglyoxal degradation I,HumanCyc,1,C00051,9 (11),0.0478,1
+Multifunctional anion exchangers,Reactome,1,C00059,9 (10),0.0478,1
+Pyruvaldehyde Degradation,SMPDB,1,C00051,9 (9),0.0478,1
+Thiamine Metabolism,SMPDB,1,C00378,9 (9),0.0478,1
+Arginine Proline metabolism,INOH,2,C00669;C05932,68 (68),0.0516,1
+Vitamin C (ascorbate) metabolism,Reactome,1,C00051,10 (12),0.053,1
+Biosynthesis of E-series 18(R)-resolvins,Reactome,1,C00051,10 (14),0.053,1
+ascorbate recycling (cytosolic),HumanCyc,1,C00051,10 (10),0.053,1
+Putative anti-Inflammatory metabolites formation from EPA,EHMN,1,C00051,10 (10),0.053,1
+Metabolism,Reactome,9,C00669;C05552;C00378;C01134;C00670;C03150;C00059;C17935;C00051,951 (1384),0.054,1
+Transport of bile salts and organic acids_ metal ions and amine compounds,Reactome,2,C00059;C05570,70 (78),0.0544,1
+Methionine metabolism and related disorders,Wikipathways,1,C00059,11 (13),0.0581,1
+Biosynthesis of E-series 18(S)-resolvins,Reactome,1,C00051,11 (19),0.0581,1
+Biosynthesis of D-series resolvins,Reactome,1,C00051,11 (23),0.0581,1
+Choline metabolism in cancer - Homo sapiens (human),KEGG,1,C00670,11 (11),0.0581,1
+Sulfur relay system - Homo sapiens (human),KEGG,1,C00378,11 (11),0.0581,1
+formaldehyde oxidation,HumanCyc,1,C00051,11 (11),0.0581,1
+superoxide radicals degradation,HumanCyc,1,C00051,11 (11),0.0581,1
+Vitamin B1 (thiamin) metabolism,EHMN,1,C00378,11 (11),0.0581,1
+Vitamin H (biotin) metabolism,EHMN,1,C05552,11 (11),0.0581,1
+HS-GAG degradation,Reactome,1,C00059,12 (23),0.0632,1
+Synthesis of 12-eicosatetraenoic acid derivatives,Reactome,1,C00051,12 (12),0.0632,1
+NAD+ biosynthetic pathways,Wikipathways,1,C03150,12 (13),0.0632,1
+Coenzyme A biosynthesis,Reactome,1,C01134,13 (13),0.0683,1
+Synthesis of 5-eicosatetraenoic acids,Reactome,1,C00051,13 (15),0.0683,1
+coenzyme A biosynthesis,HumanCyc,1,C01134,13 (13),0.0683,1
+Acetaminophen Metabolism Pathway,SMPDB,1,C00051,13 (16),0.0683,1
+glutathione-mediated detoxification,HumanCyc,1,C00051,14 (14),0.0734,1
+Sulfide oxidation to sulfate,Reactome,1,C00059,14 (15),0.0734,1
+Regulation of pyruvate dehydrogenase (PDH) complex,Reactome,1,C00051,14 (14),0.0734,1
+Organic anion transporters,Reactome,1,C00059,14 (15),0.0734,1
+Aflatoxin activation and detoxification,Reactome,1,C00051,14 (25),0.0734,1
+Trans-sulfuration pathway,Wikipathways,1,C00051,14 (14),0.0734,1
+ROS_ RNS production in phagocytes,Wikipathways,1,C00051,14 (19),0.0734,1
+NAD+ metabolism,Wikipathways,1,C03150,14 (14),0.0734,1
+Biosynthesis of EPA-derived SPMs,Wikipathways,1,C00051,15 (27),0.0784,1
+Chondroitin sulfate/dermatan sulfate metabolism,Reactome,1,C00059,15 (25),0.0784,1
+Synthesis of 15-eicosatetraenoic acid derivatives,Reactome,1,C00051,15 (16),0.0784,1
+Bile salt and organic anion SLC transporters,Reactome,1,C00059,15 (17),0.0784,1
+Biosynthesis of EPA-derived SPMs,Reactome,1,C00051,15 (27),0.0784,1
+Melanin biosynthesis,Wikipathways,1,C17935,15 (23),0.0784,1
+Biosynthesis of DHA-derived SPMs,Wikipathways,1,C00051,16 (72),0.0834,1
+Aflatoxin activation and detoxification,Wikipathways,1,C00051,16 (29),0.0834,1
+Tolerance by Mtb to nitric oxide produced by macrophages,Reactome,1,C00051,16 (22),0.0834,1
+ROS_ RNS production in phagocytes,Reactome,1,C00051,17 (21),0.0884,1
+Melanin biosynthesis,Reactome,1,C17935,17 (23),0.0884,1
+Vitamin B5 (pantothenate) metabolism,Reactome,1,C01134,17 (17),0.0884,1
+Xenobiotics metabolism,EHMN,2,C07535;C00051,93 (93),0.0894,1
+Biochemical Pathways Part I,Wikipathways,5,C00051;C05385;C00059;C01134;C00669,456 (467),0.0934,1
+Metabolism of ingested H2SeO4 and H2SeO3 into H2Se,Reactome,1,C00051,18 (18),0.0934,1
+Keratan sulfate/keratin metabolism,Reactome,1,C00059,18 (18),0.0934,1
+Biosynthesis of DHA-derived SPMs,Reactome,1,C00051,18 (72),0.0934,1
+Glycerophospholipid metabolism,EHMN,2,C00670;C04874,96 (96),0.0944,1
+Chemical carcinogenesis - Homo sapiens (human),KEGG,2,C19488;C07535,99 (99),0.0994,1
+Detoxification of Reactive Oxygen Species,Reactome,1,C00051,21 (24),0.108,1
+Synthesis of Leukotrienes (LT) and Eoxins (EX),Reactome,1,C00051,21 (28),0.108,1
+Thyroid hormone synthesis - Homo sapiens (human),KEGG,1,C00051,21 (21),0.108,1
+Pantothenate and CoA Biosynthesis,SMPDB,1,C01134,21 (21),0.108,1
+Vitamin B5 - CoA biosynthesis from pantothenate,EHMN,1,C01134,21 (21),0.108,1
+TP53 Regulates Metabolic Genes,Wikipathways,1,C00051,21 (25),0.108,1
+Tyrosine metabolism,EHMN,2,C00051;C00059,105 (105),0.11,1
+Amino Acid metabolism,Wikipathways,2,C00669;C00051,105 (108),0.11,1
+Sulfate/Sulfite Metabolism,SMPDB,1,C00059,22 (22),0.113,1
+Sulfite oxidase deficiency,SMPDB,1,C00059,22 (22),0.113,1
+Amino sugar and nucleotide sugar metabolism - Homo sapiens (human),KEGG,2,C04037;C05385,108 (108),0.115,1
+arsenate detoxification I (glutaredoxin),HumanCyc,1,C00051,23 (24),0.118,1
+Arginine biosynthesis - Homo sapiens (human),KEGG,1,C04133,23 (23),0.118,1
+TP53 Regulates Metabolic Genes,Reactome,1,C00051,23 (25),0.118,1
+Cyclophosphamide Action Pathway,SMPDB,1,C00051,23 (23),0.118,1
+Cyclophosphamide Metabolism Pathway,SMPDB,1,C00051,23 (23),0.118,1
+Detoxification of Reactive Oxygen Species,Wikipathways,1,C00051,23 (26),0.118,1
+Heparan sulfate/heparin (HS-GAG) metabolism,Reactome,1,C00059,24 (35),0.123,1
+PI Metabolism,Wikipathways,1,C00670,24 (29),0.123,1
+Linoleate metabolism,EHMN,1,C00051,24 (24),0.123,1
+Biopterin metabolism,EHMN,1,C04874,24 (24),0.123,1
+Pyruvate metabolism,Reactome,1,C00051,25 (25),0.127,1
+Ether lipid metabolism - Homo sapiens (human),KEGG,1,C00670,25 (25),0.127,1
+PI Metabolism,Reactome,1,C00670,25 (29),0.127,1
+Prostaglandin Leukotriene metabolism,INOH,1,C00051,25 (25),0.127,1
+Organic cation transport,Reactome,1,C05570,26 (29),0.132,1
+Nicotinate Nicotinamide metabolism,INOH,1,C03150,26 (26),0.132,1
+Beta-mercaptolactate-cysteine disulfiduria,SMPDB,1,C00669,26 (26),0.132,1
+Cysteine Metabolism,SMPDB,1,C00669,26 (26),0.132,1
+Cystinosis_ ocular nonnephropathic,SMPDB,1,C00669,26 (26),0.132,1
+Latent infection of Homo sapiens with Mycobacterium tuberculosis,Wikipathways,1,C00051,26 (35),0.132,1
+Response of Mtb to phagocytosis,Reactome,1,C00051,26 (35),0.132,1
+Latent infection of Homo sapiens with Mycobacterium tuberculosis,Reactome,1,C00051,26 (35),0.132,1
+Trans-sulfuration pathway,Wikipathways,1,C00051,27 (28),0.137,1
+Leukotriene metabolism,EHMN,1,C00051,27 (27),0.137,1
+Metabolism of xenobiotics by cytochrome P450 - Homo sapiens (human),KEGG,2,C19488;C07535,121 (121),0.139,1
+Pantothenate and CoA biosynthesis - Homo sapiens (human),KEGG,1,C01134,28 (28),0.142,1
+Metabolism of amino acids and derivatives,Reactome,3,C00051;C00059;C17935,246 (285),0.146,1
+Metabolic reprogramming in colon cancer,Wikipathways,1,C00051,29 (35),0.146,1
+Biosynthesis of specialized proresolving mediators (SPMs),Reactome,1,C00051,29 (140),0.146,1
+leukotriene biosynthesis,HumanCyc,1,C00051,29 (30),0.146,1
+Dopamine metabolism,Wikipathways,1,C00051,29 (32),0.146,1
+Pyruvate metabolism,INOH,1,C00051,31 (31),0.156,1
+Phenylalanine and tyrosine catabolism,Reactome,1,C00051,31 (31),0.156,1
+Vitamin A Deficiency,SMPDB,1,C00670,31 (31),0.156,1
+Retinol Metabolism,SMPDB,1,C00670,31 (31),0.156,1
+Trans-sulfuration and one carbon metabolism,Wikipathways,1,C00051,31 (33),0.156,1
+17-Beta Hydroxysteroid Dehydrogenase III Deficiency,SMPDB,1,C00059,32 (32),0.16,1
+Androgen and Estrogen Metabolism,SMPDB,1,C00059,32 (32),0.16,1
+Aromatase deficiency,SMPDB,1,C00059,32 (32),0.16,1
+Metabolism of lipids,Reactome,4,C00051;C00059;C00670;C01134,398 (620),0.164,1
+Methylation,Reactome,1,C00051,33 (37),0.165,1
+Sulfur metabolism - Homo sapiens (human),KEGG,1,C00059,33 (33),0.165,1
+Organic cation/anion/zwitterion transport,Reactome,1,C05570,33 (36),0.165,1
+Degradation of cysteine and homocysteine,Reactome,1,C00059,34 (39),0.169,1
+Transport of inorganic cations-anions and amino acids-oligopeptides,Wikipathways,1,C00059,34 (58),0.169,1
+Pentose phosphate pathway - Homo sapiens (human),KEGG,1,C01218,35 (35),0.174,1
+Transcriptional Regulation by TP53,Reactome,1,C00051,35 (37),0.174,1
+Nicotinate and Nicotinamide Metabolism,SMPDB,1,C03150,35 (35),0.174,1
+superpathway of methionine degradation,HumanCyc,1,C00059,36 (36),0.178,1
+Vitamin B3 (nicotinate and nicotinamide) metabolism,EHMN,1,C03150,36 (36),0.178,1
+Glycosaminoglycan metabolism,Wikipathways,1,C00059,36 (58),0.178,1
+Cytosolic sulfonation of small molecules,Reactome,1,C00059,37 (47),0.183,1
+Pentose phosphate pathway,EHMN,1,C01218,37 (37),0.183,1
+Synthesis of Prostaglandins (PG) and Thromboxanes (TX),Reactome,1,C00051,38 (43),0.187,1
+Glycosphingolipid metabolism,Reactome,1,C00059,38 (41),0.187,1
+Nicotinate metabolism,Wikipathways,1,C03150,38 (55),0.187,1
+Peroxisomal lipid metabolism,Reactome,1,C01134,39 (60),0.192,1
+Sphingolipid Metabolism,SMPDB,1,C00059,39 (40),0.192,1
+Gaucher Disease,SMPDB,1,C00059,39 (40),0.192,1
+Globoid Cell Leukodystrophy,SMPDB,1,C00059,39 (40),0.192,1
+Metachromatic Leukodystrophy (MLD),SMPDB,1,C00059,39 (40),0.192,1
+Fabry disease,SMPDB,1,C00059,39 (40),0.192,1
+Krabbe disease,SMPDB,1,C00059,39 (40),0.192,1
+Glycosaminoglycan metabolism,Reactome,1,C00059,40 (60),0.196,1
+Peroxisomal lipid metabolism,Wikipathways,1,C01134,40 (61),0.196,1
+Purine catabolism,Reactome,1,C00051,41 (53),0.201,1
+SLC-mediated transmembrane transport,Reactome,2,C00059;C05570,155 (166),0.204,1
+Cellular responses to stress,Reactome,1,C00051,42 (48),0.205,1
+Nicotinate metabolism,Reactome,1,C03150,42 (52),0.205,1
+The citric acid (TCA) cycle and respiratory electron transport,Wikipathways,1,C00051,43 (44),0.209,1
+Pyruvate metabolism and Citric Acid (TCA) cycle,Reactome,1,C00051,44 (44),0.214,1
+Infectious disease,Reactome,1,C00051,44 (55),0.214,1
+Amino acid and oligopeptide SLC transporters,Reactome,1,C00059,44 (50),0.214,1
+Interconversion of nucleotide di- and triphosphates,Wikipathways,1,C00051,44 (51),0.214,1
+Generic Transcription Pathway,Reactome,1,C00051,45 (49),0.218,1
+Histidine metabolism,EHMN,1,C00051,45 (45),0.218,1
+Pyruvate Dehydrogenase Complex Deficiency,SMPDB,1,C00051,46 (46),0.222,1
+Pyruvate kinase deficiency,SMPDB,1,C00051,46 (46),0.222,1
+Leigh Syndrome,SMPDB,1,C00051,46 (46),0.222,1
+Pyruvate Metabolism,SMPDB,1,C00051,46 (46),0.222,1
+Pyruvate Decarboxylase E1 Component Deficiency (PDHE1 Deficiency),SMPDB,1,C00051,46 (46),0.222,1
+Primary hyperoxaluria II_ PH2,SMPDB,1,C00051,46 (46),0.222,1
+Histidine metabolism - Homo sapiens (human),KEGG,1,C05570,47 (47),0.227,1
+Interconversion of nucleotide di- and triphosphates,Reactome,1,C00051,47 (52),0.227,1
+Prostaglandin formation from arachidonate,EHMN,1,C00051,48 (48),0.231,1
+RNA Polymerase II Transcription,Reactome,1,C00051,48 (52),0.231,1
+Cellular responses to external stimuli,Reactome,1,C00051,50 (57),0.239,1
+Transport of inorganic cations/anions and amino acids/oligopeptides,Reactome,1,C00059,50 (56),0.239,1
+Glycerophospholipid metabolism - Homo sapiens (human),KEGG,1,C00670,52 (52),0.247,1
+Arachidonic acid metabolism,EHMN,1,C00051,53 (53),0.252,1
+Selenoamino acid metabolism,Wikipathways,1,C00051,53 (59),0.252,1
+The citric acid (TCA) cycle and respiratory electron transport,Reactome,1,C00051,54 (56),0.256,1
+Sulfur amino acid metabolism,Reactome,1,C00059,54 (66),0.256,1
+Nicotinate and nicotinamide metabolism - Homo sapiens (human),KEGG,1,C03150,55 (55),0.26,1
+Selenoamino acid metabolism,Reactome,1,C00051,56 (61),0.264,1
+Gene expression (Transcription),Reactome,1,C00051,57 (66),0.268,1
+Sphingolipid metabolism,Wikipathways,1,C00059,59 (67),0.276,1
+C21-steroid hormone biosynthesis and metabolism,EHMN,1,C00059,61 (61),0.284,1
+Sphingolipid metabolism,Reactome,1,C00059,62 (68),0.288,1
+Fatty acid metabolism,Reactome,2,C00051;C01134,199 (367),0.294,1
+glutathione redox reactions I,HumanCyc,1,C00051,64 (100),0.296,1
+Transport of small molecules,Reactome,2,C00059;C05570,203 (226),0.302,1
+Innate Immune System,Reactome,1,C00051,67 (99),0.307,1
+Glycerophospholipid biosynthesis,Wikipathways,1,C00670,70 (94),0.319,1
+Histidine_ lysine_ phenylalanine_ tyrosine_ proline and tryptophan catabolism,Wikipathways,1,C00051,70 (91),0.319,1
+Leukotriene C4 Synthesis Deficiency,SMPDB,1,C00051,71 (71),0.322,1
+Antrafenine Action Pathway,SMPDB,1,C00051,71 (71),0.322,1
+Trisalicylate-choline Action Pathway,SMPDB,1,C00051,71 (71),0.322,1
+Lornoxicam Action Pathway,SMPDB,1,C00051,71 (71),0.322,1
+Tenoxicam Action Pathway,SMPDB,1,C00051,71 (71),0.322,1
+Arachidonic Acid Metabolism,SMPDB,1,C00051,71 (71),0.322,1
+Naproxen Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Magnesium salicylate Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Disease,Reactome,1,C00051,72 (104),0.326,1
+Valdecoxib Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Glycerophospholipid biosynthesis,Reactome,1,C00670,72 (93),0.326,1
+Etodolac Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Ketoprofen Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Rofecoxib Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Acetylsalicylic Acid Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Diflunisal Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Acetaminophen  Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Sulindac Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Diclofenac Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Ketorolac Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Etoricoxib Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Carprofen Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Flurbiprofen Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Fenoprofen Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Antipyrine Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Lumiracoxib Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Nepafenac Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Phenylbutazone Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Salsalate Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Tiaprofenic Acid Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Tolmetin Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Salicylic Acid Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Salicylate-sodium Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Oxaprozin Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Nabumetone Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Indomethacin Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Meloxicam Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Suprofen Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Bromfenac Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Mefenamic Acid Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Piroxicam Action Pathway,SMPDB,1,C00051,72 (72),0.326,1
+Celecoxib Action Pathway,SMPDB,1,C00051,75 (76),0.337,1
+Ibuprofen Action Pathway,SMPDB,1,C00051,77 (77),0.344,1
+Tyrosine metabolism - Homo sapiens (human),KEGG,1,C17935,78 (78),0.348,1
+Arginine and proline metabolism - Homo sapiens (human),KEGG,1,C05932,78 (78),0.348,1
+Tryptophan metabolism,EHMN,1,C00051,78 (78),0.348,1
+Phospholipid metabolism,Reactome,1,C00670,80 (103),0.355,1
+Methionine and cysteine metabolism,EHMN,1,C00059,80 (80),0.355,1
+Purine nucleotides nucleosides metabolism,INOH,1,C00059,80 (80),0.355,1
+Tryptophan metabolism - Homo sapiens (human),KEGG,1,C05641,81 (81),0.359,1
+Nucleobase catabolism,Wikipathways,1,C00051,82 (100),0.362,1
+Arachidonic acid metabolism,Reactome,1,C00051,84 (104),0.369,1
+Selenium Micronutrient Network,Wikipathways,1,C00051,84 (103),0.369,1
+Arachidonic acid metabolism,Wikipathways,1,C00051,84 (107),0.369,1
+Histidine_ lysine_ phenylalanine_ tyrosine_ proline and tryptophan catabolism,Reactome,1,C00051,85 (91),0.373,1
+Nucleobase catabolism,Reactome,1,C00051,86 (100),0.376,1
+Glycine_ serine_ alanine and threonine metabolism,EHMN,1,C00051,88 (88),0.383,1
+Immune System,Reactome,1,C00051,91 (136),0.393,1
+Purine metabolism,EHMN,1,C00059,94 (94),0.403,1
+Purine metabolism - Homo sapiens (human),KEGG,1,C00059,95 (95),0.407,1
+chondroitin sulfate degradation (metazoa),HumanCyc,1,C00059,100 (134),0.423,1
+dermatan sulfate degradation (metazoa),HumanCyc,1,C00059,101 (135),0.426,1
+Metabolism of carbohydrates,Reactome,1,C00059,111 (137),0.457,1
+Metabolism of nucleotides,Reactome,1,C00051,132 (152),0.517,1
+Phase I - Functionalization of compounds,Wikipathways,1,C03150,157 (195),0.581,1
+Phase I - Functionalization of compounds,Reactome,1,C03150,159 (193),0.585,1
+Bile secretion - Homo sapiens (human),KEGG,1,C00051,162 (162),0.592,1
